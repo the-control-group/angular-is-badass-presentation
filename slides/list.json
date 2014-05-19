@@ -1,0 +1,20 @@
+[
+    "index.html",
+    "what-is-angular.md",
+    "how-to-get-it.md",
+    "structuring-an-app.md",
+    [
+        "the-index-html.md",
+        "okay-but-what-does-it-all-mean.md"
+    ],
+    [
+        "the-app-js.md",
+        "whoa-that-cant-do-anything-productive.md"
+    ],
+    "workshop.html",
+    "two-way-data-binding.md",
+    "demo.md",
+    "dependency-injection.md",
+    "demo.md",
+    "making-an-ajax-call.md"
+]
