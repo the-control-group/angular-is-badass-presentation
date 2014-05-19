@@ -1,5 +1,6 @@
 [
     "index.html",
+    "workshop.html",
     "what-is-angular.md",
     "how-to-get-it.md",
     "structuring-an-app.md",
@@ -11,7 +12,7 @@
         "the-app-js.md",
         "whoa-that-cant-do-anything-productive.md"
     ],
-    "workshop.html",
+
     "two-way-data-binding.md",
     "demo.md",
     "dependency-injection.md",
