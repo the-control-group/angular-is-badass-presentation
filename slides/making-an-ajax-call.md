@@ -1,2 +1,2 @@
-#  Making an ajax call
+#  Building a Todo app
 ## (demo)
